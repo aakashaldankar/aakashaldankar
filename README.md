@@ -13,28 +13,6 @@
 
 ---
 
-<p align="center">
-  <i>"What I cannot create, I do not understand." — Richard Feynman</i>
-</p>
-<p align="center">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aakashaldankar&show_icons=true&hide_border=true&bg_color=1B1B2F&title_color=FFB347&icon_color=FFCC70&text_color=E8E8E8&ring_color=FFB347" alt="Aakash's GitHub stats" />
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aakashaldankar&layout=compact&hide_border=true&langs_count=8&bg_color=1B1B2F&title_color=FFB347&text_color=E8E8E8" alt="Aakash's top languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashaldankar&hide_border=true&background=1B1B2F&ring=FFB347&fire=FF6F3C&currStreakLabel=FFCC70&sideLabels=E8E8E8&currStreakNum=FFFFFF&sideNums=E8E8E8&dates=9A9A9A&stroke=FFB347" alt="Aakash's GitHub streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aakashaldankar&hide_border=true&bg_color=1B1B2F&color=E8E8E8&point=FFB347&line=FF8C42&area=true&area_color=FF8C42" alt="Aakash's contribution graph" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aakashaldankar&theme=onedark&no-frame=true&row=1&column=6&margin-w=8" alt="Aakash's GitHub trophies" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aakashaldankar&label=Profile+Views&color=FFB347&style=flat" alt="Profile views" />
-</p>
-
----
-
 ## Things I've built
 
 ### 🚨 SRE DeepAgent — an on-call engineer that doesn't sleep
@@ -104,4 +82,21 @@ Fine-tuned EfficientNetB2 on Food-101 — 101 categories, 7.8M parameters — la
 `IBM RAG and Agentic AI` · `IBM Generative AI Engineering` · `Microsoft AI & ML Engineering` · `DeepLearning.AI — NLP & Deep Learning` · `Model Context Protocol Mastery` · `IBM AI Engineering`
 
 ---
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aakashaldankar&show_icons=true&hide_border=true&bg_color=1B1B2F&title_color=FFB347&icon_color=FFCC70&text_color=E8E8E8&ring_color=FFB347" alt="Aakash's GitHub stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aakashaldankar&layout=compact&hide_border=true&langs_count=8&bg_color=1B1B2F&title_color=FFB347&text_color=E8E8E8" alt="Aakash's top languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashaldankar&hide_border=true&background=1B1B2F&ring=FFB347&fire=FF6F3C&currStreakLabel=FFCC70&sideLabels=E8E8E8&currStreakNum=FFFFFF&sideNums=E8E8E8&dates=9A9A9A&stroke=FFB347" alt="Aakash's GitHub streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aakashaldankar&hide_border=true&bg_color=1B1B2F&color=E8E8E8&point=FFB347&line=FF8C42&area=true&area_color=FF8C42" alt="Aakash's contribution graph" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aakashaldankar&theme=onedark&no-frame=true&row=1&column=6&margin-w=8" alt="Aakash's GitHub trophies" />
+</p>
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aakashaldankar&label=Profile+Views&color=FFB347&style=flat" alt="Profile views" />
+</p> -->
 
