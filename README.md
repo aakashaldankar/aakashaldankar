@@ -2,7 +2,7 @@
 <h3 align="center">I build things with code. RNNs that remember. CNNs that see. ANNs that approximate. Machine learning, AI automations, productivity tools, anything that saves someone an hour, a day, a week of their life.</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/aakash-haldankar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/aakashaldankar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/aakashaldankar"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a>
   <a href="https://huggingface.co/aakashaldankar"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black"></a>
   <a href="mailto:aakashaldankar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
