@@ -13,16 +13,13 @@
 
 ---
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=aakashaldankar&show_icons=true&theme=tokyonight&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=aakashaldankar&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aakashaldankar&show_icons=true&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashaldankar&hide_border=true" alt="Aakash's GitHub streak" />
+</p>
 
 ---
 
