@@ -14,11 +14,20 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aakashaldankar&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aakashaldankar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aakash's GitHub stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aakashaldankar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Aakash's top languages" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashaldankar&hide_border=true" alt="Aakash's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashaldankar&theme=tokyonight&hide_border=true" alt="Aakash's GitHub streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aakashaldankar&theme=tokyo-night&hide_border=true&area=true" alt="Aakash's contribution graph" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aakashaldankar&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="Aakash's GitHub trophies" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aakashaldankar&label=Profile+Views&color=7aa2f7&style=flat" alt="Profile views" />
 </p>
 
 ---
