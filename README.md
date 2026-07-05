@@ -84,7 +84,7 @@ Fine-tuned EfficientNetB2 on Food-101 — 101 categories, 7.8M parameters — la
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aakashaldankar&show_icons=true&theme=default&hide_border=true" alt="Aakash's GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aakashaldankar&show_icons=true&theme=default&hide_border=true" />
 </p>
 
 <p align="center">
