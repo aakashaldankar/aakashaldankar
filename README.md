@@ -37,7 +37,7 @@ Response time went from **8 hours to under 5 minutes**. That's not a rounding er
 
 Training a model is the easy 20%. I wanted the other 80% proper experiment tracking with DVC and MLflow, a FastAPI endpoint on AWS, and a feature that compares a listing against 50 nearby ones so a host knows *why* the price is what it is, not just what it is.
 
-### 📖 KaleidoscopeChat — RAG for a textbook nobody wanted to re-read
+### 📖 KaleidoscopeChat — RAG for a textbook.
 
 An AI tutor that answers questions on NCERT Class 12 English, poem by poem. Built vector search with Qdrant and hierarchical indexing with LlamaIndex so it retrieves at the level of a single poem, not a whole chapter. Groq's LLaMA 3.3-70B handles the answers, wrapped in a Gradio UI.
 
